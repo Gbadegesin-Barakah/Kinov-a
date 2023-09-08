@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 3px;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    font-size: 25px;
+}
+
+img {
+    width: 15rem;
+    height: 15rem;
+    object-fit: cover;
+    border-radius: 50%;
+    background: skyblue;
+    padding: 6px;
+}
+
+div {
+    width: 20px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
